@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6d5549f3-7fdc-4f4f-a26d-739863f46055" alt="cs2"/>
+</p>
+
+![Top Banner](https://github.com/user-attachments/assets/7fda2d74-d90f-4a15-a4f0-2e73835bf580)
 # CS2 Rock The Vote (Fixed)
 A Patch for abnerfs's rtv system for cs2. The code was changed to support counterstrikesharp version 1.0.318
 
@@ -129,3 +134,4 @@ de_thera:3121217565
 de_dust2
 ```
 
+![Bottom Banner](https://github.com/user-attachments/assets/37fdd0cc-1e97-464d-82f6-6b3a6e116ac4)
