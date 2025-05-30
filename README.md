@@ -1,28 +1,28 @@
 # CS2 Rock The Vote (Fixed)
 A Patch for abnerfs's rtv system for cs2. The code was changed to support counterstrikesharp version 1.0.318
 
-General purpose map voting plugin, started as a simple RTV and now has more features
-
-![image](https://github.com/abnerfs/cs2-rockthevote/assets/14078661/bf4bb677-3c83-4cb6-ac8a-393435c91105)
+General purpose map voting plugin, started as a simple RTV and now has more features.
 
 Please consider supporting Abnerfs's since this is originally his work:
 
 [![](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=XDAQUYUGT5PTJ)
 
-  
-## Requirements (Last workign version was 1.0.318)
+## Enjoy
+ - Not planning on maintaing this plugin, so feel free to fork or download and publish your future fixes :D ~ amzu
+ - please check out Abnerfs's repo and leave a star! [![click here](https://github.com/abnerfs/cs2-rockthevote)]
+## Requirements (Last working version was 1.0.318)
 [Latest release of Counter Strike Sharp](https://github.com/roflmuffin/CounterStrikeSharp)
 
 # Installation
 - Download the latest release
 - Extract the .zip file into `addons/counterstrikesharp/plugins`
 - Run your server client once
-- close the server cleint
-- edit the config file in addons/counterstrikesharp/config/RockTheVote
+- close the server client
+- edit the config file in `addons/counterstrikesharp/config/RockTheVote`
 - Enjoy!
 
 
-## Documentation courtesy of abnerfs:
+## Documentation courtesy of Abnerfs:
 # Features
 - Reads from a custom maplist
 - RTV Command
@@ -129,5 +129,3 @@ de_thera:3121217565
 de_dust2
 ```
 
-## Enjoy
- - Not planning on maintaing this plugin, so feel free to fork or download and publish your future fixes :D ~ amzu
