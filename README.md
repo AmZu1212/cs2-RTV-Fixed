@@ -13,7 +13,7 @@ Please consider supporting Abnerfs's since this is originally his work:
 [![](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=XDAQUYUGT5PTJ)
 
 ## Enjoy
- - Not planning on maintaing this plugin, so feel free to fork or download and publish your future fixes :D ~ amzu
+ - Not planning on maintaining this plugin, so feel free to fork or download and publish your future fixes :D
  - please check out Abnerfs's repo and leave a star! [![click here](https://github.com/abnerfs/cs2-rockthevote)]
 ## Requirements (Last working version was 1.0.318)
 [Latest release of Counter Strike Sharp](https://github.com/roflmuffin/CounterStrikeSharp)
